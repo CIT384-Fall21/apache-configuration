@@ -1,0 +1,8 @@
+Name: Monica Luong
+Lab Name: proxy-server
+Date Assigned: 10/19/2021
+Date Completed: 10/27/2021
+Status:  Completed for the most part
+Outstanding Issues: Giving marketing control of "/"
+Major Impediments: None
+Feedback Comments: Didn't have enough time to figure out how to give marketing control of "/", I instead just made an alias of "/" to "/index.html"
